@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE02SHSM-SBD12-08-FDCHPA000-recovered_inst-fdchp_a_instrument_recovered
 last_request: '2022-01-04T19:29:09.087547Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSM-SBD12-08-FDCHPA000-recovered_inst-fdchp_a_instrument_recovered/main/history/response.json
-status: pending
+status: success
