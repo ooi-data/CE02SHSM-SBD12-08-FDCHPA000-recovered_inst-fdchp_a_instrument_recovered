@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD12-08-FDCHPA000-recovered_inst-fdchp_a_instrument_recovered
 data_stream: CE02SHSM-SBD12-08-FDCHPA000-recovered_inst-fdchp_a_instrument_recovered
 end_date: '2021-09-16T20:21:59.947Z'
-last_updated: '2022-01-21T08:18:17.424546Z'
+last_updated: '2022-01-21T08:22:06.103480'
 start_date: '2015-04-02T20:15:00.052Z'
-status: pending
+status: success
